@@ -1,0 +1,4 @@
+- [x] Update index.html: Add name input and paid/unpaid radio buttons in billing form
+- [x] Update script.js: Modify completeBill to include name and paid status in bill object
+- [x] Update script.js: Modify renderBillingHistory to display name and paid status, add search input
+- [x] Update script.js: Add filtering logic for billing history by name
